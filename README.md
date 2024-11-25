@@ -10,7 +10,7 @@ Hosted on [GitHub Container Registry](https://github.com/MaastrichtU-Library/pos
 
 [![Publish Docker image](https://github.com/MaastrichtU-Library/postgres/workflows/Publish%20Docker%20image/badge.svg)](https://github.com/MaastrichtU-Library/postgres/actions)
 
-# The image on [ghcr.io](https://ghcr.io) is automatically updated every week (Monday at 3:00 GMT+1) by a GitHub Actions workflow to match the `latest` tag of [cellprofiler](https://hub.docker.com/_/cellprofiler) 
+The image on [ghcr.io](https://ghcr.io) is automatically updated every week (Monday at 3:00 GMT+1) by a GitHub Actions workflow to match the `latest` tag of [cellprofiler](https://hub.docker.com/_/cellprofiler) 
 
 ## Run
 
